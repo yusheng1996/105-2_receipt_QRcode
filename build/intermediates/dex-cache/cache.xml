@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\08d408aa58b859c766cfa1e84ee696dc5daf534b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_e4608d4b68f68332a95e641df021dd77b20200c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\6b6bd4945056f3999e370eb4a650190f57e30ab4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_9d56cef91ed165796f8a8e2982714d1cd0a04c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\84e01986c4a53dc295d574c11cf0e04ac43988c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_ddb6065b6d54e69b17172f48cbc7bf08401ac688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\42fb45f6313572a59728bb0bbf99cab2de906461\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_45be568ea219f90475af3c37f1aafb7968eab30a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\core-3.2.1_a444ded78ab36d2e716e64d5218aed06d8eceea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\8271dbeb2dcfba0edd3cde59199412970650031e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_b55631bfcf76b34a533827c6e675b705508810ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\6d6fc96a0a6ea2063ffa5423331f02895b351d80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_7a2bdae59a8dbab047c0d7098469952fa67a553a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\5103cd201b546182dcd8b06b8c7580eafde0b593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_5c0e3d3fe8764494df1aeaa6d375304b48a005a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\26400fa4d783aa8163d362572c8991ac535e7b8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_d73231903e0fbd811f0822febc4413c9ede5aedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\7f83bb155a35617b1f8ec55e97c42a3a3e50d455\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_a850deda3d61b00a92bc304646d4da9ef95c336b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\.android\build-cache\ba444094c58f5f5d7fdc131f1d31e32b474fe2c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\classes_34cb005c9718b057c1d1df870bbea0a3f9b13b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\c0000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\c0000\AndroidStudioProjects\QRexample\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8f64ca6b6eb3cb0b1432a176a5e732f54f5b6d5f.jar" />
+    </item>
+
+</items>
